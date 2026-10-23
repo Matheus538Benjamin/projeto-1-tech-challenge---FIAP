@@ -1,0 +1,8 @@
+# Projeto 1 · Tech Challenge (FIAP) — bibliotecas usadas nos notebooks
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.4
+jupyterlab>=4.0
