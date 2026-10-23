@@ -97,6 +97,6 @@ projeto-1-tech-challenge/
 ## Entregáveis
 
 - Repositório: https://github.com/Matheus538Benjamin/projeto-1-tech-challenge---FIAP
-- **Relatório executivo (PDF, 10 páginas):** [`reports/relatorio_executivo.pdf`](reports/relatorio_executivo.pdf): sumário, contexto, análise, conclusões e anexo de governança
+- **Relatório executivo (PDF, 11 páginas):** [`reports/relatorio_executivo.pdf`](reports/relatorio_executivo.pdf): sumário, contexto, análise, conclusões e anexo de governança
 - Apresentação executiva: `reports/apresentacao/` (*link a incluir*)
 - Vídeo executivo (até 5 min): *link a incluir*
