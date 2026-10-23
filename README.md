@@ -75,7 +75,8 @@ projeto-1-tech-challenge/
 ├── notebooks/         um notebook por ato (01 a 05)
 ├── reports/
 │   ├── figures/       gráficos salvos pelos notebooks
-│   └── apresentacao/  apresentação executiva (PowerPoint)
+│   ├── apresentacao/  apresentação executiva (PowerPoint)
+│   └── relatorio_executivo.pdf   relatório executivo para investidores
 ├── src/
 │   ├── config.py      caminhos, janela de análise e regras de negócio (num lugar só)
 │   ├── dados.py       leitura, limpeza e montagem das bases
@@ -96,5 +97,6 @@ projeto-1-tech-challenge/
 ## Entregáveis
 
 - Repositório: https://github.com/Matheus538Benjamin/projeto-1-tech-challenge---FIAP
+- **Relatório executivo (PDF, 10 páginas):** [`reports/relatorio_executivo.pdf`](reports/relatorio_executivo.pdf): sumário, contexto, análise, conclusões e anexo de governança
 - Apresentação executiva: `reports/apresentacao/` (*link a incluir*)
 - Vídeo executivo (até 5 min): *link a incluir*
